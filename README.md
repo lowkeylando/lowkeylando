@@ -1,11 +1,3 @@
-### Intro
-
-- 🔭 | I aspire to be a Commercial Pilot.
-- 🌱 | I can code in Python and a littke bit of C.
-- 📫 | How to reach me: Discord or X.
-- 😄 | Pronouns: He/Him.
-- ⚡ | Fun fact: I live in the Caribbean.
-
 # 💫 About Me:
 🔭 | I aspire to be a Commercial Pilot.<br>🌱 | I can code in Python and a littke bit of C.<br>📫 | How to reach me: Discord or X.<br>😄 | Pronouns: He/Him.<br>⚡ | Fun fact: I live in the Caribbean.
 
